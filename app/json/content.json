@@ -1,0 +1,71 @@
+{
+	"slide": [{
+		"head": "Sådan opretter du din egen virtuelle klasse",
+		"body": "",
+		"footer": "Om fem minutter er du klar til at bruge Danmarks nyeste læringsportal."
+	}, {
+		"head": "Opret din klasse",
+		"body": "",
+		"footer": "Skriv klassens navn, lærerens navn samt din emailadresse i tekstfelterne til venstre for denne præsentation, så er du godt i gang."
+	}, {
+		"head": "Din klasse er oprettet",
+		"body": "",
+		"footer": "Når du har godkendt dine indtastninger, så kan du ovenfor denne præsentation se, at din klasse oprettet, og du er næsten i mål. Næste skridt er at åbne den mail vi lige har sendt til dig."
+	}, {
+		"head": "You got mail!",
+		"body": "",
+		"footer": "Her kan du se at mailen indeholder dine oplysninger og et aktiveringslink, som du skal klikke på nu. Hvis mailen ikke kommer indenfor få minutter, så tjek mappen med 'uønsket mail'."
+	}, {
+		"head": "Log ind på administration af klasseværelset",
+		"body": "",
+		"footer": "Aktiveringslinket fører dig over til administrationen, hvor du kan gøre MIN KLASSE klar. Log ind på administrationen med brugernavnet og adgangskoden fra mailen."
+	}, {
+		"head": "Klassens velkomsttekst",
+		"body": "",
+		"footer": "Administrationen består af siderne OPLYSNINGER, TEMAER og STATISTIK. Vi starter med at skrive en velkomsttekst til din klasse! Husk at gem teksten."
+	}, {
+		"head": "Opret brugere",
+		"body": "",
+		"footer": "På samme side skal du oprette dine elever og eventuelt et par lærerkollegaer. Du opretter en bruger ved at markere knappen 'TILFØJ BRUGER', skrive navnet i taleboblen og markere gem-knappen, som ligner en diskette."
+	}, {
+		"head": "Få tilsendt klassens oplysninger og kodeliste til din mailboks",
+		"body": "",
+		"footer": "Marker emailknappen hvor der står din email og få tilsendt klassens oplysninger, brugernavne og kodeord. Mailen indeholder også et link til klassens side, som er der eleverne skal logge ind."
+	}, {
+		"head": "Sådan ser mailen ud",
+		"body": "",
+		"footer": "Når du har oprettet eller valgt et tema, så kan du åbne og tilrette mailen og derefter sende den videre til dine elever og kollegaer."
+	}, {
+		"head": "Temaer",
+		"body": "",
+		"footer": "Men først skal du aktivere et tema. På teacher-content.com er al viden klumpet sammen i temaer. Du kan oprette dit eget tema eller bruge et eksisterende tema. Klassens aktive temaer er på klassens temaliste."
+	}, {
+		"head": "OPRET TEMA",
+		"body": "",
+		"footer": "Marker knappen 'OPRET TEMA'."
+	}, {
+		"head": "OPRET TEMA step 1 til 4",
+		"body": "",
+		"footer": "Her skal du navngive dit tema, beskrive dit læringsmål, vælge hvilket sprog temaet skrives i og vælge hvilket geografisk område, som temaet handler om."
+	}, {
+		"head": "OPRET TEMA step 5",
+		"body": "",
+		"footer": "Alle temaer skal have tilknyttet et spil, som du vælger fra listen her."
+	}, {
+		"head": "OPRET TEMA step 6 og 7",
+		"body": "",
+		"footer": "Lav en indledning til temaets spil og en afsluttende åben opgave. Den åbne opgaves besvarelser kan hele klassen se på klassens side."
+	}, {
+		"head": "Brug andres temaer",
+		"body": "",
+		"footer": "De orange temaer i venstre side er klassens aktive temaer. De grønne temaer i højre side, er globale temaer. Du aktiver et globalt tema ved at markere plus-knappen. Og du deaktiverer et tema fra temalisten ved at trykke på minus-knappen."
+	}, {
+		"head": "Statistik",
+		"body": "",
+		"footer": "Administrationen har også et statistikmodul, hvor du kan få det fulde overblik over elevernes indsats. Du kan lave præcise søgninger på det enkelte tema, den enkelte elev og et bestemt tidsinterval."
+	}, {
+		"head": "",
+		"body": "",
+		"footer": ""
+	}]
+}

@@ -1,0 +1,27 @@
+/* CSS Document */
+/*------farver------
+
+blå:		#004358
+mørkegrøn:	#1F8A70
+Grøn:		#BEDB39
+Gul:		#FFE11A
+Orange:		#FD7400
+-------------------*/
+body{
+    background-color: blue;
+}
+
+@media (max-width: 1200px) {
+/*iPad horisontalt*/
+
+}
+@media (max-width: 992px) {
+/*iPad vertical*/
+
+}
+@media (max-width: 767px) {
+/*iPhone horisontal*/
+}
+@media (max-device-width: 480px) {
+/*iPhone vertical*/
+}
